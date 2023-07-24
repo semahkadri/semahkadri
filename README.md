@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/kdrse3772727/overlay/background-image/
+!(https://www.linkedin.com/in/kdrse3772727/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Semah Kadri</h1>
 <h3 align="center">A passionate Artifical intelligence student.</h3>
