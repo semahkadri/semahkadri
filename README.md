@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/in/kdrse3772727/overlay/background-image/)
+![Banner](https://static.vecteezy.com/system/resources/thumbnails/021/515/694/small/ai-artificial-intelligence-banner-design-illustration-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Semah Kadri</h1>
 <h3 align="center">A passionate Artifical intelligence student.</h3>
