@@ -7,13 +7,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning about **Reinforcement Learning**
 
-- 💬 Ask me about **ML, NLP, NLU, DL**
+- 💬 Ask me about **Machine Learning** or **Deep Learning**
 
 - 📫 How to reach me **semah.kadri@esprit.tn**
 
-- ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes!**
+- ⚡ Fun fact **I can solve a Rubik's Cube in under one minute!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
