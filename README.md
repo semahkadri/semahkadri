@@ -1,6 +1,6 @@
 <!--![Banner](https://static.vecteezy.com/system/resources/previews/021/515/695/original/ai-technology-artificial-intelligence-banner-design-illustration-vector.jpg) -->
 
-<h1 align="center">Hi 👋, I'm Semah Kadri</h1>
+<h1 align="center">Hi 👋, I'm Semah</h1>
 <h3 align="center">A passionate Artifical intelligence engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semahkadri&label=Profile%20views&color=0e75b6&style=flat" alt="semahkadri" /> </p>
