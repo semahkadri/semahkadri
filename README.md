@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning** or **Deep Learning**
 
-- 📫 How to reach me **semah.kadri@esprit.tn**
+- 📫 How to reach me **semahkadri@outlook.fr**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under one minute!**
 
